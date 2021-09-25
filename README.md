@@ -14,7 +14,7 @@ Editar el archivo .env para cambiar la configuracion de la BD
 	DB_PASSWORD=
 
  
-luego ejecutar composer install y composer update
+luego ejecutar composer install
 
 luego ejecutar : "php artisan migrate" para las migraciones 
 
